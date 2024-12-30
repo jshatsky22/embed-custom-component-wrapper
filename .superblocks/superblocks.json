@@ -1,0 +1,12 @@
+{
+  "configType": "ROOT",
+  "metadata": {
+    "cliVersion": "1.9.0"
+  },
+  "resources": {
+    "7d2bb81c-ad5d-4dae-b4da-644de395d2a3": {
+      "location": "apps/jesse_embed_module_test",
+      "resourceType": "APPLICATION"
+    }
+  }
+}

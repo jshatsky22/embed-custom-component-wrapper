@@ -1,0 +1,12 @@
+{
+  "apis": {},
+  "configType": "APPLICATION",
+  "id": "7d2bb81c-ad5d-4dae-b4da-644de395d2a3",
+  "pages": {
+    "734ae1ed-128a-4d34-9aa8-228cf7a3e7de": {
+      "apis": {},
+      "id": "734ae1ed-128a-4d34-9aa8-228cf7a3e7de",
+      "name": "Page1"
+    }
+  }
+}
